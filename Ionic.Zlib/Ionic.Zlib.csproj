@@ -28,6 +28,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <ConsolePause>false</ConsolePause>
+    <DefineConstants>SILVERLIGHT</DefineConstants>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
